@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Abhinav
 - 👀 I’m a coding enthusiast. 
 - 🌱 My interested language.
--    Python(More likely)
--    HTML
--    CSS
--    Swift
+-   1. Python(More likely)
+-   2. HTML
+-   3. CSS
+-   4. Swift
 - 💞️ I love to work with any fellow dev. 
 - Let's code it! Guys
 
